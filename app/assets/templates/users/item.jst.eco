@@ -1,0 +1,10 @@
+<td><%= @user.get 'username'%></td>
+<td><%= @user.get 'firstname'%></td>
+<td><%= @user.get 'lastname'%></td>
+<td><%= @user.get 'role'%></td>
+<td><%= @user.get 'email'%></td>
+<td><%= @user.get 'region'%></td>
+<td>edit</td>
+<td><a class="remove-user">remove</a></td>
+<td>duplicate</td>
+

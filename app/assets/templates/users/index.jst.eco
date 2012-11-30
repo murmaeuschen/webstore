@@ -1,0 +1,14 @@
+<table id="users">
+<tr>
+	<th>User name</th>
+	<th>First name</th>
+	<th>Last name</th>
+	<th>Role</th>
+	<th>Email</th>
+	<th>Region</th>
+	<th>Edit</th>
+	<th>Remove</th>
+	<th>Duplicate</th> 
+</tr>
+</table>
+<div id="footer"></div>
